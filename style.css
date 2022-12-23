@@ -12,3 +12,11 @@ body, h1 {
   .text {
    color:blueviolet; 
   }
+
+  .par {
+    font-size: medium;
+  }
+
+  .motion {
+    color: aqua;
+  }
